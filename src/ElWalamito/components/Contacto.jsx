@@ -10,7 +10,7 @@ export const Contacto = () => {
             <div className="mx-auto max-w-[600px] w-11/12 p-8 bg-gray-900 rounded-3xl shadow-lg">
                 <div className="flex justify-center mb-8">
                     <img 
-                        src="./assets/images/LOGO WALAMITO PNG CON FONDO.png" 
+                        src="images/LOGO WALAMITO PNG CON FONDO.png" 
                         alt="Logo" 
                         className="w-32" />
                 </div>

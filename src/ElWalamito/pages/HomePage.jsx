@@ -18,7 +18,7 @@ export const HomePage = () => {
 
             <div id="inicio" className="relative bg-black mb-10">
                 <img 
-                    src="./assets/images/BANNER VACIO.jpg" 
+                    src="images/BANNER VACIO.jpg" 
                     alt="Banner"
                     className="w-full h-[500px]"
                 />
@@ -38,7 +38,7 @@ export const HomePage = () => {
 
             <div id="catalogo" className="relative bg-black my-5">
                 <img 
-                    src="./assets/images/BANNER PAGINA WEB CATALOGO - 02.webp" 
+                    src="images/BANNER PAGINA WEB CATALOGO - 02.webp" 
                     alt="Banner"
                     className="w-full"
                 />
