@@ -49,7 +49,7 @@ export const Navbar = () => {
                             <div className="flex flex-shrink-0 items-center">
                                 <img
                                     className="h-[64px] w-auto"
-                                    src="/src/assets/images/LOGO WALAMITO perfil.png"
+                                    src="./assets/images/LOGO WALAMITO perfil.png"
                                     alt="Your Company"
                                 />
                                 <p className='ml-2 text-white font-bold text-xl'>EL WALAMITO</p>
